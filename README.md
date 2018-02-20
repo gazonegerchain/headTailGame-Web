@@ -9,3 +9,5 @@
 ## Команда запуска
 
 ```npm run```
+
+![2018-02-21 0 25 28](https://user-images.githubusercontent.com/36628340/36450556-5aeae9a4-169f-11e8-852e-7ffeda8475e5.png)
